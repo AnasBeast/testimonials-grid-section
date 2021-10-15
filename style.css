@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@600&display=swap');
+
+
+.square1 {
+    background-color: hsl(263, 55%, 52%);
+    border-radius: 10px;
+    left: -10%;
+    margin-bottom: 5%;
+    box-shadow: 5px 10px 10px #888888c5;
+}
+
+.square2 {
+    background-color: hsl(217, 19%, 35%);
+    border-radius: 10px;
+    margin-left: 0%;
+    left: -5%;
+    box-shadow: 5px 10px 10px #888888c5;
+
+}
+
+.square3 {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    margin-left: 0%;
+    left: -10%;
+    box-shadow: 5px 10px 10px #888888c5;
+
+}
+
+.square4 {
+    background-color: hsl(219, 29%, 14%);
+    border-radius: 10px;
+    margin-left: 0%;
+    left: -5%;
+    box-shadow: 5px 10px 10px #888888c5;
+
+}
+
+.square5 {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    margin-left: 0%;
+    left: 105%;
+    box-shadow: 5px 10px 10px #888888c5;
+
+}
+
+*{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.textt{
+    font-size: 14px;
+    color: white;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 600;
+}
+
+.img{
+    border-radius: 50%;
+    width: 6%;
+    border: rgba(255, 255, 255, 0.699) 1px solid;
+    margin: 5px;
+}
+
+.img2{
+    border-radius: 50%;
+    width: 13%;
+    border: rgba(255, 255, 255, 0.699) 1px solid;
+    margin: 5px;
+}
+
+.img3{
+    border-radius: 50%;
+    width: 13%;
+    border: rgba(255, 255, 255, 0.699) 1px solid;
+    margin: 5px;
+   
+}
+
+.img4{
+    border-radius: 50%;
+    width: 6%;
+    border: hsl(263, 55%, 52%) 1px solid;
+    margin: 5px;
+   
+}
+
+body{
+    background-color: hsl(210, 46%, 95%);
+}
+
+.soust{
+    color: hsl(0, 0%, 81%);
+    font-weight: 100;
+}
+
+.float{
+    float: left;
+}
+
+.white{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    margin: 10px;
+}
+.header{
+    margin-top: 3%;
+}
+.header2{
+    margin-top: 6.3%;
+}
+.header3{
+    margin-top: 3%;
+}
+.header5{
+    margin-top: 6.3%;
+}
+.para{
+    color: hsl(0, 0%, 81%);
+    font-weight: 100;
+    margin-bottom: 3%;
+    margin-left: 10px;
+}
+div{
+    z-index: 5;
+}
+.quotes{
+    position:absolute;
+    left: 75%;
+    z-index: 0;
+    color: white;
+    opacity: 0.3;
+}
+
+.para2{
+    color: hsl(0, 0%, 81%);
+    font-weight: 100;
+    margin-left: 10px;
+    margin-bottom: 22%;
+}
+.para3{
+    color: hsl(0, 0%, 81%);
+    font-weight: 100;
+    margin-left: 10px;
+    margin-bottom: 10%;
+}
+
+.para4{
+    color: hsl(0, 0%, 81%);
+    font-weight: 100;
+    margin-left: 10px;
+    margin-bottom: 8%;
+}
+
+.para5{
+    color: hsl(0, 0%, 81%);
+    font-weight: 100;
+    margin-left: 10px;
+    margin-bottom: 27%;
+}
+
+.textb{
+    font-size: 14px;
+    color: hsl(217, 19%, 35%);
+}
+
+.blue{
+    color: hsl(217, 19%, 35%);
+    font-size: 25px;
+    margin: 10px;
+    margin-bottom: 10%;
+}   
+
+.kira{
+    position: absolute;
+    left: 65%;
+    width: 15%;
+}
+
+.center{
+    text-align: center;
+}
+
+.chalb{
+    font-size: 30pt;
+    text-align: center;
+    background: hsl(217, 19%, 35%);
+    color: hsl(0, 0%, 81%);
+}
+
+.chalb:hover{
+    color: hsl(217, 19%, 35%);
+    background-color: hsl(210, 46%, 95%);
+}
+
+.chal{
+    padding: 1%;
+    padding-bottom: 3%;
+}
